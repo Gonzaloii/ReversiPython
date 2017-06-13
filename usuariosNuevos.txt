@@ -1,0 +1,16 @@
+Gonzalo,1,5,4,1,0
+Gonzal,1,5,4,1,0
+Ivan,5,5,5,0,0
+Iva,5,5,5,0,0
+Mariano,5,5,4,1,0
+Marian,5,5,4,1,0
+Juan,5,5,4,1,0
+Jua,5,5,4,1,0
+Miriam,40,5,8,1,0
+Manuel,4,5,8,1,0
+Manuela,6,5,8,1,0
+Camila,20,10,20,0,0
+Pilar,8,5,8,1,0
+Patricio,60,30,40,10,0
+Omar,50,5,4,1,0
+Gonzalo,1,5,4,1,0
